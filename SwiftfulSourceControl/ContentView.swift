@@ -34,14 +34,12 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("Swiftful Thinking - Source Control Update")
+            
             Button("Click Me!") {
                 
             }
-            .background(Color.red)
 
-            Button("Subscribe!") {
-                
-            }
+            Rectangle()
 
         }
     

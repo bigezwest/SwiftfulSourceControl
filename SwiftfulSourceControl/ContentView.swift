@@ -5,7 +5,16 @@
 //  Created by Thomas on 1/7/25.
 //
 /*
- COMMIT MESSAGES
+ ------ GIT TERMINOLOGY --------------------------------------------------------
+ 
+ GIT ACTIONS -----------------------------------------
+ Clone = Copying the repo locally.
+ Commit = Save ("checkpoint") on our current branch.
+ Stage = Prepare changes for a commit.
+ Stash = Save Changes for later.
+ 
+ 
+ COMMIT MESSAGES -------------------------------------
  
  NEW FEATURE:
  [Feature] Description of the feature

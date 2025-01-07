@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "heart.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
-            Text("Swiftful Thinking - Source Control Update")
+            Text("Swiftful Thinking - Source Control")
             
             Button("Subscribe Now!") {
                 

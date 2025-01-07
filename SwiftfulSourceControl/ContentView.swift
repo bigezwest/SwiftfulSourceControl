@@ -9,18 +9,19 @@
  
  NEW FEATURE:
  [Feature] Description of the feature
- 
- BUG IN PRODUCTION:
- [Patch] Description of the patch
- 
+
  BUT NOT IN PRODUCTION:
  [Bug] Description of the bug
+
+ RELEASE:
+ [Release] Description of release
+
+ BUG IN PRODUCTION:
+ [Patch] Description of the patch
  
  MUNDANE TASK:
  [Clean] Description of changes
  
- RELEASE:
- [Release] Description of release
  
  */
 

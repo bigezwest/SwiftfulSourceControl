@@ -20,6 +20,7 @@ struct ContentView: View {
             }
 
             Rectangle()
+            Rectangle()
 
         }
     

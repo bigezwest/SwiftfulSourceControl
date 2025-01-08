@@ -17,7 +17,7 @@
 # *.js      @bigezwest
 # *.swift      @bigezwest
 
-* To add more code owners, repeat the pattern bove with the directory, filepattern, or specific file, followed bny the owner.
+# * To add more code owners, repeat the pattern bove with the directory, filepattern, or specific file, followed bny the owner.
 # You cna also specify GitHub teams as woners using the @orgname/teamname syntax.
 
 # Example for specifying a team (replace 'team-name' with the actual team neame) 

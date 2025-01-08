@@ -19,6 +19,9 @@ functionality is supposed to be.
  Pull = Fetch remote commits to local repo
  Branch = Create a new copy from a specified repo
  Merge = Move Branch changes into another Branch
+ Rebase = Move one Branch on top of another Branch
+ Cherry Picking = Duplicating (copying) one commit from one branch to another
+ 
  
  ### COMMIT MESSAGES -----------------------------------------------------------
  

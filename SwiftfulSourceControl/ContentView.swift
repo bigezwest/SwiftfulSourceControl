@@ -20,7 +20,7 @@ struct ContentView: View {
                             Text("Some New Title")
                             Text("Swiftful Thinking!")
                             
-                            Button("Click Me!") {
+                            Button("Subscribe Now!") {
                             }
                             Rectangle()
                         }

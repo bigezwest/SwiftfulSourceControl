@@ -17,6 +17,8 @@ functionality is supposed to be.
  Stash = Save Changes for later.
  Push = Send local commits to remote repo
  Pull = Fetch remote commits to local repo
+ Branch = Create a new copy from a specified repo
+ Merge = Move Branch changes into another Branch
  
  ### COMMIT MESSAGES -----------------------------------------------------------
  

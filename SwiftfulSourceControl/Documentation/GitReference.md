@@ -21,7 +21,9 @@ functionality is supposed to be.
  Merge = Move Branch changes into another Branch
  Rebase = Move one Branch on top of another Branch
  Cherry Picking = Duplicating (copying) one commit from one branch to another
- 
+ Pull Request = A Request to merge one branch into another branch.  This would 
+    be on a team, where someone would review the code before merging it into 
+    a branch.  
  
  ### COMMIT MESSAGES -----------------------------------------------------------
  

@@ -27,6 +27,14 @@ functionality is supposed to be.
  PR Merge = (Pull Request - Merge) Merge all commits
  PR Squash and Merge = (Pull Request - Squash and Merge) 
     Squash all commits into ONE and then merge ONE commit
+    
+ ### Also Covered --------------------------------------------------------------
+ Protecting Branches 
+ CODEOWNERS
+ GitIgnore
+ ReadMe
+ Releases, Tags, Versioning
+ 
  ### COMMIT MESSAGES -----------------------------------------------------------
  
  NEW FEATURE:

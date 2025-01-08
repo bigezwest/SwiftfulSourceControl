@@ -10,18 +10,11 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "house.fill")
-                .font(.largeTitle)
-                .foregroundStyle(.tint)
-            Text("Swiftful Thinking - Source Control")
-            
-            Button("Subscribe Now") {
-                
+            ScrollView {
+                ForEach(0..<20) { _ in
+                    Text("Yo")
+                }
             }
-
-            Rectangle()
-            Rectangle()
-
         }
     
         .padding()

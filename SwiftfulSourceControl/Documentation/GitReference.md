@@ -24,7 +24,9 @@ functionality is supposed to be.
  Pull Request = A Request to merge one branch into another branch.  This would 
     be on a team, where someone would review the code before merging it into 
     a branch.  
- 
+ PR Merge = (Pull Request - Merge) Merge all commits
+ PR Squash and Merge = (Pull Request - Squash and Merge) 
+    Squash all commits into ONE and then merge ONE commit
  ### COMMIT MESSAGES -----------------------------------------------------------
  
  NEW FEATURE:

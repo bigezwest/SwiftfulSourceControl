@@ -1,15 +1,15 @@
 # Pull Request (PR) Template
 
-## PUl Request Title
-The title should succintly explaine the changes.  For example, "Add search functionality to the homepage".
+## Pull Request Title
+The title should succiently explain the changes.  For example, "Add search functionality to the homepage".
 
 ## Description
-Provide a brief description of the changes your pull request makes.  Explain the problem it solves or the feature it adds ot the project.  Include any relevent issue numbers. 
+Provide a brief description of the changes your pull request makes.  Explain the problem it solves or the feature it adds to the project.  Include any relevant issue numbers. 
 
 ## Type of Change
- - [ ] Bug fix (non-breaking change wihich fixes an issue)
- - [ ] New feature (non-breaking change wich adds functinoality)
- - [ ] Breaking change (fix or feature that would cause exidsting functionality to not work as expected)
+ - [ ] Bug fix (non-breaking change which fixes an issue)
+ - [ ] New feature (non-breaking change which adds functionality)
+ - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
  - [ ] This change requires a documentation update.
 
  ## How Has This Been Tested?
@@ -25,7 +25,7 @@ Provide a brief description of the changes your pull request makes.  Explain the
  - [ ] I have made corresponding changes to the documentation (if applicable).
 
 ## Screenshots
-Insert any screenshots or videos (if applicable) to help explain your problem or demonstarate your changes. 
+Insert any screenshots or videos (if applicable) to help explain your problem or demonstrate your changes. 
 
 ## Additional Notes
-Add any other context or notes about the pull request here. This could inclucde necessary deployment changes, new dependencies, etc.
+Add any other context or notes about the pull request here. This could include necessary deployment changes, new dependencies, etc.
